@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+
+<head>
+<style>
+<meta charset="UTF-8">
+<meta name="Lab task 6">
+
+</style>
+</head>
+
+<body style="background-image: url('IBA-BBSYDP/umamatask6/bg.png')">
+<div style="border:groove 10px; width:600px; height:600px; background-color:white; margin-left:400px; margin-top: 50px;"  >
+
+<p style="background-color:rgba(255, 99, 71, 0.5); text-align:center; padding: 20px; font-size:50px; font-family: Edwardian Script ITC; margin:25px; " >
+<img src="D:/umama.iba/left.jpg" height="50px" width="50px">Terps Calculator Inc.<img src="D:/umama.iba/globe.gif" with="50px" height="50px"></p>
+
+<p style="color:red; background-color:rgba(255, 99, 71, 0.5); text-align:center; margin:25px; padding:10px; font-size:10px; ">
+<a href="https://www.umd.edu/>https://www.umd.edu/</a>
+<a href="https://www.cs.umd.edu/">https://www.cs.umd.edu/</a>
+<a href="https://www.testudo.umd.edu/">https://www.testudo.umd.edu/</a>
+</p>
+
+<div style="border-style:solid 5px; border-color:grey; background-color:rgba(255, 99, 71, 0.5); text-align:left; font-size:20px; padding:20px; margin-left:25px; ">
+<b><u>Introduction</u></b>
+<p><b>Terps Calculators Inc. implements</b> and provide these calculators for your use. We keep expanding our collectiion everyday,
+so make sure you stop by often.
+</p>
+
+<p><b><u>Calculators</u></b></p>
+<p style="color:red;" ><img src="D:/umama.iba/calculatorImage.png"><u><i>&nbsp;&nbsp;Grades Calculator</i></u></p>
+<p style="color:red;" ><img src="D:/umama.iba/calculatorImage.png"><u><i>&nbsp;&nbsp;Interest Calculator</i></u></p>
+</div>
+
+<p style="border-color:grey; background-color:rgba(255, 99, 71, 0.5); text-align:center; margin:25px; padding:5px; font-size=7px; "> <b> Terps Calculators Inc. &#174</b></div>
+
+
+</p>
+
+</body>
